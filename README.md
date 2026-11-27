@@ -14,7 +14,7 @@
   <a href="https://ilmisys.com/blog">Blog</a> ·
   <a href="https://ilmisys.com/contact">Contact</a> ·
   <a href="https://x.com/ILMISYS">X / Twitter</a> ·
-  <a href="[https://x.com/ILMISYS](https://wa.me/923455340523)">WhatsApp</a> ·
+  <a href="https://wa.me/923455340523">WhatsApp</a> ·
 </p>
 
 ---
