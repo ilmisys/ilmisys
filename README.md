@@ -13,7 +13,8 @@
   <a href="https://ilmisys.com/products">Products</a> ·
   <a href="https://ilmisys.com/blog">Blog</a> ·
   <a href="https://ilmisys.com/contact">Contact</a> ·
-  <a href="https://x.com/ILMISYS">X / Twitter</a>
+  <a href="https://x.com/ILMISYS">X / Twitter</a> ·
+  <a href="[https://x.com/ILMISYS](https://wa.me/923455340523)">WhatsApp</a> ·
 </p>
 
 ---
@@ -115,6 +116,7 @@ Have a question about Ilmify, Evalumax or our community tools, or something else
 - ✉️ **Contact form:** [ilmisys.com/contact](https://ilmisys.com/contact)
 - 🐦 **X / Twitter:** [@ILMISYS](https://x.com/ILMISYS)
 - 🔒 **Privacy Policy:** [ilmisys.com/privacy-policy](https://ilmisys.com/privacy-policy)
+- 📞 **WhatsApp** [+92 345 5340523](https://wa.me/923455340523)
 
 ---
 
